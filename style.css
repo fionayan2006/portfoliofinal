@@ -21,6 +21,17 @@
   display: block;
 }
 
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+   }
+    
+    
+.navbar li {
+      float: left;
+     }
+
 .banner img {
   width: 100%;
 }
