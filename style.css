@@ -19,6 +19,7 @@
   text-align: center;
   transition: 1s;
   display: block;
+  padding: 8px;
 }
 
 .navbar ul {
