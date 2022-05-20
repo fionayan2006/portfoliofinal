@@ -15,10 +15,12 @@
   color: #FFFFFF;
   font-weight: bold;
   font-size: 1.6rem;
+  margin-right: 70px;
   text-align: center;
+  transition: 1s;
   display: block;
 }
 
-.banner {
+.banner img {
   width: 100%;
 }
