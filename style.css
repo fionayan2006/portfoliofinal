@@ -46,19 +46,9 @@
   padding-top: 40px;
   padding-bottom: 20px;
 }
-
-<!--.intro {
-  float: right;
-  width: 45%;
-  max-width: 600px;
-  padding: 10px 0%;
-  font-weight: normal;
-  font-size: 1.7rem;
-  margin: auto;
-}-->
   
 img {
-  float: right;
+  float: left;
   width: 50%;
   height: auto;
 }
