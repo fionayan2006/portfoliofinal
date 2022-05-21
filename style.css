@@ -53,6 +53,7 @@
 }
 img {
   float: left;
-  width: 50%;
+  width: 40%;
   height: auto;
+  padding: 20px;
 }
