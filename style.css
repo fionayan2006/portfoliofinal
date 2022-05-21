@@ -49,15 +49,15 @@
 
 .intro {
   float: right;
-  width: 75%;
-  text-align: right;
+  width: 45%;
   max-width: 600px;
   padding: 10px 0%;
   font-weight: normal;
   font-size: 1.7rem;
-  margin: auto;
+  <!--margin: auto;-->
   
 .profilePic {
   float: left;
-  width: 30%;
+  width: 10%;
+  height: 10%;
 }
