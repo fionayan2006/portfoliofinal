@@ -81,14 +81,14 @@ p {
   color: rgb(116,27,71);
 }
 
-img {
+.gallery_1 img {
   width: 100%;
 }
 
 .gallery_1 {
   padding: 4rem;
   display: grid;
-  grid-template-columns: auto auto auto;
+  grid-template-columns:auto auto auto auto;
   flex-direction: column;
   gap: 0.3rem;
   justify-content: space-between;
