@@ -54,3 +54,65 @@
   width:50%;
 }
 
+p {
+  text-align: center;
+}
+
+.Academics Content {
+  margin:3rem;
+  background-color: rgb(255, 253, 215);
+}
+.card_1 {
+  width: 100%;
+  font-family: 'Smooch Sans', sans-serif;
+  color: rgb(52, 59, 71);
+  background-color: antiquewhite;
+  padding: 0.7rem;
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(116,27,71);
+  border-radius: 1rem;
+  font-size: 1.2rem;
+}
+
+.card_1 h1 {
+  font-size: 1.6rem;
+  text-align: center;
+  color: rgb(116,27,71);
+}
+
+img {
+  width: 30%;
+}
+
+.gallery_1 {
+  padding: 4rem;
+  display: grid;
+  grid-template-columns:auto auto auto;
+  flex-direction: column;
+  gap: 0.3rem;
+  justify-content: space-between;
+}
+
+<!--.order p {
+  padding: 1rem;
+  font-size: 1.4rem;
+  font-family: 'Smooch Sans', sans-serif;
+  color: rgb(52, 59, 71);
+}-->
+
+.academics h1 {
+  margin: 9rem 0 0 0;
+  color: rgb(116,27,71);
+  font-family: 'Smooch Sans', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  font-size: 4rem;
+}
+
+.subtitle {
+  color: rgb(116,27,71);
+  font-family: 'Smooch Sans', sans-serif;
+  text-align: center;
+}
+
