@@ -88,6 +88,7 @@ p {
 .gallery_1 {
   padding: 4rem;
   display: grid;
+  grid-gap: 10px;
   grid-template-columns:auto auto auto;
   flex-direction: row;
   gap: 0.3rem;
