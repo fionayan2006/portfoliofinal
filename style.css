@@ -66,7 +66,7 @@ p {
   width: 100%;
   font-family: 'Smooch Sans', sans-serif;
   color: rgb(52, 59, 71);
-  background-color: purple;
+  background-color: antiquewhite;
   padding: 0.7rem;
   border-style: solid;
   border-width: 5px;
@@ -88,7 +88,7 @@ p {
 .gallery_1 {
   padding: 4rem;
   display: grid;
-  grid-gap: 10px;
+  grid-gap: 20px;
   grid-template-columns:auto auto auto;
   flex-direction: row;
   gap: 0.3rem;
