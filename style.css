@@ -88,7 +88,7 @@ img {
 .gallery_1 {
   padding: 4rem;
   display: grid;
-  grid-template-columns:auto auto auto;
+  grid-template-columns: auto auto auto;
   flex-direction: column;
   gap: 0.3rem;
   justify-content: space-between;
