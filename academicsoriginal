@@ -1,1 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Academics</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  
+  <body class="AcademicsContent"> <!--BonBon body-->
+
+    <!--Academics NavBar-->
+    <div class="navbar">
+      <ul>
+        <li> <a href="index.html" style="color:#FFFDED;"> Home </a> </li>
+        <li><a href="academics.html" style="color:#FFFDED;"> Academics </a> </li>
+        <li><a href="Extracurriculars.html" style="color:#FFFDED;"> Extracurriculars </a> </li>
+      </ul>
+    </div>
+
+
+  <div class="academics"> <!--bon-->
+  <h1>Academics</h1>
+  </div>
+
+  <div class="subtitle"> <!--orderwhere-->
+  <h4>Here you will find the academic projects I am most proud of in 9th and 10th grade, grouped by subjects</h4>
+  </div>
+   
+  <!--Projects and captions-->
+  <div class="gallery_1">
+  <div class="card_1">
+    <a href="https://docs.google.com/document/d/1kzX1y6AJYtVfVIOSG4pwvcCMksRK2x03AsPjYhKjHRY/edit?usp=sharing" target="_blank">
+     <img src="9thCapstone.jpg" alt=""/> </a>
+    
+    <h1> 9th Grade Capstone Essay (test5) </h1>
+    <p> At the end of the school year, as a part of my Honors English class, I wrote a Capstone essay comparing two literary works we read during the school
+    year. Here, I chose to compare the element of Providence in Zora Neale Hurston's "Their Eyes Were Watching God" and Homer's "The Odyssey."  <br/>
+    <b>Click the image to read my essay!</p>
+  </div>
+ 
+    <div class="card_1">
+    <a href="https://docs.google.com/document/d/1kzX1y6AJYtVfVIOSG4pwvcCMksRK2x03AsPjYhKjHRY/edit?usp=sharing" target="_blank">
+    <img src="PersonalNarraCover.jpg" alt=""/> </a>
+    <h1> 10th Grade Personal Essay </h1>
+    <p> <br/>
+      In 10th Grade, I wrote a personal essay reflecting on my experience as someone who came to the U.S. at the age of ten. Enjoy!
+    </p>
+    </div>
+   
+  <div class="card_1">
+       <a href="https://docs.google.com/document/d/1I4AkUwvi_97nr9z4IldyNY4Qkcwx7w8GO5VsyymUAU4/edit?usp=sharing" target="_blank">
+    <img src="EnglishPortfoCover.jpg" alt=""/> </a>
+    <h1> 10th Grade Capstone Portfolio: </h1>
+    <p> <b>Most proud!</b><br/>
+      This is the end-of-the-year portfolio I put together at the end of my 10th grade year. In this portfolio, you will find my favorite pieces I've written this year as well as pieces that reveal my growth as a writer.
+    </p>
+    </div>
+  </div>
+	
+</body>
+</html>
 
