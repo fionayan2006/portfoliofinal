@@ -100,6 +100,22 @@ p {
   justify-content: space-between;
 }
 
+.card_2 h1 {
+  font-size: 1.6rem;
+  text-align: center;
+  color: rgb(116,27,71);
+}
+
+.gallery_2 {
+  padding: 4rem;
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns:auto auto auto;
+  flex-direction: column;
+  gap: 0.3rem;
+  justify-content: space-between;
+}
+
 .order p {
   padding: 1rem;
   font-size: 1.4rem;
