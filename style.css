@@ -95,7 +95,7 @@ p {
   display: grid;
   grid-gap: 20px;
   grid-template-columns:auto auto auto;
-  flex-direction: row;
+  flex-direction: column;
   gap: 0.3rem;
   justify-content: space-between;
 }
