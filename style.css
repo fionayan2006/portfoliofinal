@@ -13,8 +13,7 @@
 
 .navbar a {
   color: #FFFFFF;
-  font-weight: bold;
-  font-size: 1.6rem;
+  font-size: 1.5rem;
   margin-right: 70px;
   text-align: center;
   transition: 1s;
@@ -60,7 +59,7 @@ p {
 
 .AcademicsContent {
   margin:3rem;
-  background-color: rgb(255, 253, 215);
+  background-color: #FFFDED;
 }
 
 .SubjectTitle h2{
@@ -69,13 +68,11 @@ p {
 
 .card_1 {
   width: 100%;
-  font-family: 'Smooch Sans', sans-serif;
-  color: rgb(52, 59, 71);
-  background-color: #FAEBD7;
+  background-color: #9B6A6C;
   padding: 0.7rem;
   border-style: solid;
   border-width: 5px;
-  border-color: rgb(116,27,71);
+  border-color: #320E3B;
   border-radius: 1rem;
   font-size: 1.2rem;
 }
@@ -100,41 +97,23 @@ p {
   justify-content: space-between;
 }
 
-.card_2 h1 {
-  font-size: 1.6rem;
-  text-align: center;
-  color: rgb(116,27,71);
-}
-
-.gallery_2 {
-  padding: 4rem;
-  display: grid;
-  grid-gap: 20px;
-  grid-template-columns:auto;
-  flex-direction: column;
-  gap: 0.3rem;
-  justify-content: space-between;
-}
 
 .order p {
   padding: 1rem;
   font-size: 1.4rem;
-  font-family: 'Smooch Sans', sans-serif;
   color: rgb(52, 59, 71);
 }
 
 .academics h1 {
   margin: 9rem 0 0 0;
-  color: rgb(116,27,71);
-  font-family: 'Smooch Sans', sans-serif;
+  color: #320E3B;
   font-weight: bold;
   text-align: center;
   font-size: 4rem;
 }
 
 .subtitle {
-  color: rgb(116,27,71);
-  font-family: 'Smooch Sans', sans-serif;
+  color: #320E3B;
   text-align: center;
 }
 
